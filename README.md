@@ -11,4 +11,4 @@ to highlight the user preferences
    
    b. Semantic Search Component which loads the CSV file data into a Chroma DB and performs semantic search based on the user preferences
    
-   c. Augmented Response Generation Component which highlights the search results based on user prefernces
+   c. Augmented Response Generation Component which highlights the search results based on user prefernces. ConversationBufferMemory library is used and the augmented results are shown followed by a chat conversation between AI and the human user.
